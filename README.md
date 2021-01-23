@@ -11,5 +11,5 @@ Custom crafting recipes for custom slabs with both crafting table and stone cutt
  
 ## Planned features  
 Coloured concrete stairs  
-Json files for custom stair  
+Json files for custom stairs  
 Custom crafting recipes for custom stairs with both crafting table and stone cutter  
