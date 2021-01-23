@@ -1,2 +1,2 @@
-# ConcretePlus
-Adds new variations to concrete to improve building.
+# Concrete Plus
+Adds new Slabs that are mad of concrete.
