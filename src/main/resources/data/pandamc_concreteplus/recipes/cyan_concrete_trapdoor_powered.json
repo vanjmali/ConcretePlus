@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_door",
+  "pattern": [
+    "ARA",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cyan_concrete"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "A": {
+      "item": "minecraft:air"
+    }
+  },
+  "result": {
+    "item": "pandamc_concreteplus:cyan_concrete_trapdoor_powered",
+    "count": 2
+  }
+}

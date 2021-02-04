@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_door",
+  "pattern": [
+    "AAA",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:green_concrete"
+    },
+    "A": {
+      "item": "minecraft:air"
+    }
+  },
+  "result": {
+    "item": "pandamc_concreteplus:green_concrete_trapdoor",
+    "count": 2
+  }
+}
