@@ -9,7 +9,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "pandacp:cyan_concrete_stairs"
+          "name": "pandamc_concreteplus:cyan_concrete_stairs"
         }
       ],
       "conditions": [
