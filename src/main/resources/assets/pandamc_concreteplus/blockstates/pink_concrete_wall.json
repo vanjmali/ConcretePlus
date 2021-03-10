@@ -81,7 +81,7 @@
             "west": "tall"
           },
           "apply": {
-            "model": "pandamc_concreteplus:block/pink_wall_side_tall",
+            "model": "pandamc_concreteplus:block/pink_concrete_wall_side_tall",
             "y": 270,
             "uvlock": true
           }
